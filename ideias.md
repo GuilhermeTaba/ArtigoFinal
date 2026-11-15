@@ -104,3 +104,19 @@ olha uma tendencia longa
 # Fluxo 
 
 Para fins descritivos, o modelo foi estimado com a amostra completa (2010–2026), mostrando que os regimes identificados coincidem com os principais episódios de estresse do mercado brasileiro. A avaliação da estratégia, por sua vez, é feita fora da amostra, com parâmetros estimados até 2018 e probabilidades filtradas, para evitar look-ahead bias.
+
+# Markov switching 
+bull and bear states
+bull - alta 
+bear - baixa
+
+# regimes 
+1. Dois regimes por média e volatilidade (o padrão)
+
+Regime calmo: vol baixa, drift positivo.
+Regime turbulento: vol alta, drift negativo ou nul
+
+# Provar que os regimes existem     
+# correlacao 
+Depois de a gente fazer as matrizes a gente ira verificar a autocorrelacao para ver se 
+a matriz faz sentido pra nosso trend following 
