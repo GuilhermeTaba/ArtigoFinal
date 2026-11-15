@@ -33,7 +33,7 @@ https://www.sciencedirect.com/science/article/pii/S0304405X16301490
 referencia 5:
 filtro de hamilton
 
-p 5 
+p 12 
 
 HAMILTON, J. D. A new approach to the economic analysis of nonstationary time series and the business cycle. Econometrica, v. 57, n. 2, p. 357-384, 1989.
 
