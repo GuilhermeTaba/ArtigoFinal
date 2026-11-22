@@ -19,7 +19,7 @@ referencia3
 Regimes 
 
 ANG, Andrew; TIMMERMANN, Allan. Regime changes and financial markets. Annual Review of Financial Economics, v. 4, n. 1, p. 313-337, 2012. DOI: 10.1146/annurev-financial-110311-101808.
-https://rady.ucsd.edu/_files/faculty-research/timmermann/regime_changes_June_22.pdf p 14/5
+https://rady.ucsd.edu/_files/faculty-research/timmermann/regime_changes_June_22.pdf p 3
 
 
 
